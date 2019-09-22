@@ -1,0 +1,12 @@
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\bin\Release\minecraft Dos.exe.config
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\bin\Release\minecraft Dos.exe
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\bin\Release\minecraft Dos.pdb
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\bin\Release\minecraft Dos.exe.CodeAnalysisLog.xml
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\bin\Release\minecraft Dos.exe.lastcodeanalysissucceeded
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Release\minecraft Dos.csprojAssemblyReference.cache
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Release\minecraft_Dos.Form1.resources
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Release\minecraft_Dos.Properties.Resources.resources
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Release\minecraft Dos.csproj.GenerateResource.cache
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Release\minecraft Dos.csproj.CoreCompileInputs.cache
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Release\minecraft Dos.exe
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Release\minecraft Dos.pdb

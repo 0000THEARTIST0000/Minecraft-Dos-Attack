@@ -1,0 +1,20 @@
+C:\Users\ASTR0\Desktop\C#\minecraft Dos\minecraft Dos\bin\Debug\minecraft Dos.exe.config
+C:\Users\ASTR0\Desktop\C#\minecraft Dos\minecraft Dos\bin\Debug\minecraft Dos.exe
+C:\Users\ASTR0\Desktop\C#\minecraft Dos\minecraft Dos\bin\Debug\minecraft Dos.pdb
+C:\Users\ASTR0\Desktop\C#\minecraft Dos\minecraft Dos\obj\Debug\minecraft Dos.csprojAssemblyReference.cache
+C:\Users\ASTR0\Desktop\C#\minecraft Dos\minecraft Dos\obj\Debug\minecraft_Dos.Form1.resources
+C:\Users\ASTR0\Desktop\C#\minecraft Dos\minecraft Dos\obj\Debug\minecraft_Dos.Properties.Resources.resources
+C:\Users\ASTR0\Desktop\C#\minecraft Dos\minecraft Dos\obj\Debug\minecraft Dos.csproj.GenerateResource.cache
+C:\Users\ASTR0\Desktop\C#\minecraft Dos\minecraft Dos\obj\Debug\minecraft Dos.csproj.CoreCompileInputs.cache
+C:\Users\ASTR0\Desktop\C#\minecraft Dos\minecraft Dos\obj\Debug\minecraft Dos.exe
+C:\Users\ASTR0\Desktop\C#\minecraft Dos\minecraft Dos\obj\Debug\minecraft Dos.pdb
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\bin\Debug\minecraft Dos.exe.config
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\bin\Debug\minecraft Dos.exe
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\bin\Debug\minecraft Dos.pdb
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Debug\minecraft Dos.csprojAssemblyReference.cache
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Debug\minecraft_Dos.Form1.resources
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Debug\minecraft_Dos.Properties.Resources.resources
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Debug\minecraft Dos.csproj.GenerateResource.cache
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Debug\minecraft Dos.csproj.CoreCompileInputs.cache
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Debug\minecraft Dos.exe
+C:\Users\ASTR0\Desktop\minecraft Dos\minecraft Dos\obj\Debug\minecraft Dos.pdb
